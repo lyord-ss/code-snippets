@@ -1,1 +1,3 @@
-between brackets - \[(.*)\]
+
+select brackets - [\[\]]
+select between brackets - \[(.*)\]
